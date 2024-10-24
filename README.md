@@ -1,7 +1,7 @@
 # Client Control
 
 <h3>Sistema de controle de cliente desenvolvido para o curso de Programação FullStack, do Senai, na Unidade Curricular de Codificação Back-End. O sistema foi desenvolvido em C#,
- contendo os seguintes elementos da linguagem:</h3><br>
+ contendo os seguintes elementos da linguagem:</h3>
 <h4>
 <ul>
 <li>Entrada e saída de dados;
